@@ -8,4 +8,5 @@ It contains practises for the following algorithms:
 3. Decision Tree, Gradient Boosted Trees and Random Forest
 4. K-Means CLustering
 5. Recommender Systems
+6. Natural Language Processing
 and more to go......
